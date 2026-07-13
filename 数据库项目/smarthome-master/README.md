@@ -1,4 +1,4 @@
-smarthome
+smart-home-master
 =========
 
-智能家居管理系统
+智能楼宇环境监控管理系统
